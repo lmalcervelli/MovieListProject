@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-
-# Course:      CIS 222 Computer Scripting
-# Project:     Movie List revision
-# Updated by:  Laura Malcervelli
-# Date:        25 February 2023
 import os
 
 def display_menu() :
